@@ -1,5 +1,5 @@
 {"appVersion" => "1000",
 "releaseNote" => "Update Available",
-"welcomeNote" => "Omega Free Version\n\nChangeLogs :\n\n    × V 2.3.1.test ×\n• Support PUBG 2.3\n• Fixed Server\n• Fixed Some Bugs\n\n    × V 1.0.0 ×\n• Release",
+"welcomeNote" => "Omega Free Version\n\nChangeLogs :\n\n    × V 2.3.2.test ×\n• Support PUBG 2.4\n\n    × V 2.3.1.test ×\n• Support PUBG 2.3\n• Fixed Server\n• Fixed Some Bugs\n\n    × V 1.0.0 ×\n• Release",
 "userName" => "0",
 "downloadUpdate" => "https://omega.ghostmods.xyz/download/"}
