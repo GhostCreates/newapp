@@ -2,11 +2,11 @@
     "serverstatus":"open",
     "servermeassage":"New update will come Soon",
     "opentime":"Just wait few hours",
-    "version": "1.0",
+    "version": "1040",
     "releaseDate": "2023-05-22",
     "changes":[
         "Initial Release"  
     ],
-    "downloadUrl": "https://t.me/KillMongerGHOST", 
+    "downloadUrl": "https://ghost.thaivng.xyz/omega/channel.php", 
     "libs":"https://raw.githubusercontent.com/GhostCreates/newapp/main/lib.zip"
 }
