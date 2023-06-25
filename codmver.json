@@ -7,6 +7,6 @@
     "changes":[
         "Initial Release"  
     ],
-    "downloadUrl": "https://ghost.thaivng.xyz/omega/channel.php", 
+    "downloadUrl": "https://ghost.thaivng.xyz/omega/download", 
     "libs":"https://raw.githubusercontent.com/GhostCreates/newapp/main/lib.zip"
 }
